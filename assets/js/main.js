@@ -53,7 +53,7 @@ jQuery(document).ready(function($) {
     );
     
     /* Github Activity Feed - https://github.com/caseyscarborough/github-activity */
-    GitHubActivity.feed({ username: "scott-swarthout", selector: "#ghfeed" });
+    GitHubActivity.feed({ username: "swarthout", selector: "#ghfeed" });
 
 
 });
